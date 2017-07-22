@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Dec 25 19:42:23 2014
-
+Edited on Fri Jul 21 8:26:21 2017
 @author: wepon
 
 code of PCA Algrithom
